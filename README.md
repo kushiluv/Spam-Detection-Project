@@ -8,3 +8,6 @@ Spam detection has been developed to address SMS spam issues. Typically, binary 
 This classification helps in creating a user-friendly environment free of unwanted messages, thereby saving a lot of time and hassle.
 Spam could be of various types; some major ones are unnecessary advertisements and different types of fraud. 
 Our dataset contains 5 features and 5574 data entries .Different machine-learning models have been employed to classify messages into spam or ham(good mail). Among these models, multinomial naive Bayes and Random Forests have produced the best results, with an accuracy of 97.09 and 97.48, respectively. Lastly, to further improve the accuracy and efficacy of the whole model, we’ve also implemented stemming and vectorization.
+
+Scores of our final model :
+![image](https://user-images.githubusercontent.com/88649199/208297086-8d9cabe8-5b6a-47f2-b0a2-f03795b676b8.png)
